@@ -1,0 +1,21 @@
+{
+    "testing_block_number": "<block_number>",
+    "swap": {
+        "sell_token": "<token0_address>",
+        "sell_amount": 0
+    },
+    "pool": {
+        "source": "UniswapV2",
+        "pool_type": "constant_product",
+        "pool_address": "<pool_address>",
+        "tokens": ["<token0_address>", "<token1_address>"]
+    },
+    "states": {
+        "reserve0": 0,
+        "reserve1": 0
+    },
+    "results": {
+        "fee_amount": 0,
+        "amount_out": 0
+    }
+}
