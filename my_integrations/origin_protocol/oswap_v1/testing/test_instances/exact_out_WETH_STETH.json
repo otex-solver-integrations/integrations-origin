@@ -1,0 +1,22 @@
+{
+    "testing_block_number": "18789716",
+    "swap": {
+        "buy_token": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+        "buy_amount": 100000000000000000
+    },
+    "pool": {
+        "source": "OSwapV1",
+        "pool_address": "0x85b78aca6deae198fbf201c82daf6ca21942acc6",
+        "tokens": ["0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2", "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"]
+    },
+    "states": {
+        "traderate0": 1000220067617580570950000000000000000,
+        "traderate1": 999700000000000000000000000000000000,
+        "balance0": 248285014794033759655,
+        "balance1": 250142096838354617678
+    },
+    "results": {
+        "fee_amount": 0,
+        "amount_in": 99977998080152027
+    }
+}
